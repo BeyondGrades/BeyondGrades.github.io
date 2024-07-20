@@ -201,7 +201,7 @@ leadership, service, and character`,
             'type': `Leadership, Volunteerism`,
             'details': `Involved in voluntary humanitarian activities`,
             'date': 'Opens November 1st, 2024'
-        },        
+        },
         {
             'name': 'nshss',
             'url': 'https://www.nshss.org/scholarships/s/nshss-james-w-lewis-collegiate-global-leader-scholarship-2024/',
@@ -520,6 +520,24 @@ leadership, service, and character`,
         }
     ];
 
+    // truncate text in table
+    // note: this needs to be defined before the table is created
+    DataTable.render.ellipsis = function (cutoff) {
+        return function (data, type, row) {
+            if (type === 'display') {
+                var str = data.toString(); // cast numbers
+
+                return str.length < cutoff ?
+                    str :
+                    str.substr(0, cutoff - 1) + '&#8230;';
+            }
+
+            // Search, order and type can use the original data
+            return data;
+        };
+    };
+
+    // setup table
     let table = new DataTable('#scholarships-table', {
         columns: [
             {
@@ -537,7 +555,11 @@ leadership, service, and character`,
         data: dataSet,
         order: [[1, 'desc']],
         select: true,
-        lengthMenu: [5, 10, 25, { label: 'All', value: -1 }]
+        lengthMenu: [5, 10, 25, { label: 'All', value: -1 }],
+        columnDefs: [{
+            targets: [4,5],
+            render: DataTable.render.ellipsis(50)
+        }]
     });
 
     $('head').append('<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.min.css">');
