@@ -20,7 +20,7 @@ reviews:
 - [https://calgaryhacks.ca/](https://calgaryhacks.ca/)
 
 ### Pros
-- Demonstrates participation, a willingness to go out a try something.
+- Demonstrates participation, a willingness to go out and try something.
 - Networking opportunity.
 - Prizes.
 

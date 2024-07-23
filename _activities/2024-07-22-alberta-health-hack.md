@@ -20,7 +20,7 @@ reviews:
 - [https://alberta-health-hack.devpost.com/](https://alberta-health-hack.devpost.com/)
 
 ### Pros
-- Demonstrates participation, a willingness to go out a try something.
+- Demonstrates participation, a willingness to go out and try something.
 - Networking opportunity.
 - Prizes.
 - Food and drinks will be provided for all participants.

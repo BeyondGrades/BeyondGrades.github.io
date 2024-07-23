@@ -18,7 +18,13 @@ reviews:
 
 ### More Info
 - [https://imaginecup.microsoft.com/en-us/junior](https://imaginecup.microsoft.com/en-us/junior)
-- can download AI learn modules on site even if you don't sign up
+- able to download 'AI for Good Resource Pack' (learning modules) on site even if you don't sign up
+  - Module 1 Introduction to AI
+  - Module 2 Machine Learning
+  - Module 3 Applications of AI
+  - Module 4 Deep Learning and Neural Networks
+  - Module 5 AI for Good
+  - Module 6 Cybersecurity
 
 ### Pros
 - Build AI Skills

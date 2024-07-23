@@ -1,11 +1,11 @@
 ---
-title:  "yychacks"
+title:  "Youth Impact Challenge - Summer Innovation Challenge"
 tags: 
   - Contest
 description:
   - Hackathon
 dates:
-  - February?
+  - Summer
 costs:
   - None
 reviews:
@@ -13,11 +13,11 @@ reviews:
 ---
 
 ### Details
-- Highlights innovation and collaboration
-
+- Proposal to make change in your local and global communities.
+- Idea is making environmental or social impact.
 
 ### More Info
-- [https://yychacks.ca/](https://yychacks.ca/)
+- [https://www.youthimpactchallenge.ca/](https://www.youthimpactchallenge.ca/)
 
 ### Pros
 - Demonstrates participation, a willingness to go out and try something.
@@ -25,7 +25,7 @@ reviews:
 - Prizes.
 
 ### Cons
-- need a team of 6-10 members (maybe you can be added to a team?)
+- need a team of 3+ members
 
 ### Reviews
 <div markdown="0"><a href="{{site.baseurl}}/contact" class="btn">Add Review</a></div>

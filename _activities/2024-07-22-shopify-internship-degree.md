@@ -19,12 +19,12 @@ reviews:
 - [https://devdegree.ca/](https://devdegree.ca/)
 
 ### Pros
-- Shopify pays for tuition.
-- Get paid while learning.
+- Pays your tuition and gives you a competitive salary and vacation. That's over $160,000 (CDN) in total financial support.
 - Small cohorts.
 
 ### Cons
 - Must attend a partner university.
+- If Carleton or York for in person classes, then must find room and board in Ottawa or York (might be able to live on campus?)
 - Remote work only.
 
 ### Reviews
