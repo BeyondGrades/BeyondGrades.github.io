@@ -1,11 +1,11 @@
 ---
 title: "Interesting Stuff"
-excerpt: "Keep uo to date on Current Events and Interesting Stuff"
+excerpt: "Keep up to date on Current Events and Interesting Stuff"
 toc: true
 toc_sticky: true
 ---
 
-Keep uo to date on Current Events and Interesting Stuff.
+Keep up to date on Current Events and Interesting Stuff.
 
 # News
 - [Google Trending News](https://trends.google.com/trends/trendingsearches/daily?geo=CA&hl=en-US)
@@ -31,3 +31,4 @@ Keep uo to date on Current Events and Interesting Stuff.
 - [UN SDG](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
 - [UN SDG Fast Facts](https://www.un.org/sustainabledevelopment/sdg-fast-facts/)
 - [Canada SDG](https://www.canada.ca/en/employment-social-development/programs/agenda-2030.html)
+- [Canada SDG Infographics](https://www.statcan.gc.ca/o1/en/plus/940-check-out-our-new-sustainable-development-goals-infographics)
