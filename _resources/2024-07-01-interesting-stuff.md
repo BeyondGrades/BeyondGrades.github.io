@@ -9,13 +9,16 @@ Keep up to date on Current Events and Interesting Stuff.
 
 # News
 - [Google Trending News](https://trends.google.com/trends/trendingsearches/daily?geo=CA&hl=en-US)
-    - scan headlines
+    - note: scan headlines
 - [Google News](https://news.google.com/home?hl=en-CA&gl=CA&ceid=CA:en)
-    - scan headlines
+    - note: scan headlines
     - make sure to go through Business/Tech/Science/Health tabs as well
 - [CBC - About That](https://www.youtube.com/playlist?list=PLeyJPHbRnGaZeajS8uAtr8cyc19TYBZZ9)
     - explains the major news stories everybody is talking about 
+- [Bloomberg Originals](https://www.youtube.com/bloomberg)
+    - bold takes for curious minds on today’s biggest topics
 - [https://www.sciencedaily.com/](https://www.sciencedaily.com/)
+    - latest research news
 
 # Explainer Videos
 - [TED-Ed](https://www.youtube.com/teded)
