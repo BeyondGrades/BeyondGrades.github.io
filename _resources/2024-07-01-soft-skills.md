@@ -8,6 +8,8 @@ toc_sticky: true
 Pad out your resume with Soft Skills.  Take the free courses (scan+next) or watch the videos (2x speed). Maybe you'll learn how to work well with others, be a great team player, and learn leadership skills.
 
 # Linked In
+> Note: you can get free access to Linked In through the [Library](../2024-07-01-tools/#calgary-public-library)
+
 - [Soft Skills](https://www.linkedin.com/learning/search?keywords=soft+Skills&upsellOrderOrigin=default_guest_learning&trk=learning-topics_learning-search-bar_search-submit&didUpdateFilters=true&sortBy=RELEVANCE&entityType=LEARNING_PATH)
     - Time Management
     - Team Collaboration
@@ -35,7 +37,7 @@ Pad out your resume with Soft Skills.  Take the free courses (scan+next) or watc
     - leaders and thinkers offer practical wisdom and insight into how we can adapt and thrive amid changing workplace conventions
 
 - [How to Have a Good Conversation - Celeste Headlee](https://www.youtube.com/watch?v=H6n3iNh4XLI)
-    - Be interested in other people, they all have talents that may amaze you.
+    - Be interested in other people, they might amaze you.
 
 # Google
 - [Applied Digital Skills](https://www.youtube.com/@googlesapplieddigitalskill8678)
