@@ -10,10 +10,18 @@ permalink: /scholarships/
 <h1>Scholarships</h1>
 <hr />
 <ul>
-    <li><p>Don't leave money on the table.</p></li>
-    <li><p>Make a spreadsheet. Watch the deadlines. Apply, apply, apply.</p></li>
-    <li><p>Some people treat applying for scholarships as a job - will you?</p></li>
-    <li><p>Note: The below list is only a fraction of scholarships available. Search the web for more. </p></li>
+    <li>
+        <p>Don't leave money on the table.</p>
+    </li>
+    <li>
+        <p>Make a spreadsheet. Watch the deadlines. Apply, apply, apply.</p>
+    </li>
+    <li>
+        <p>Some people treat applying for scholarships as a job - will you?</p>
+    </li>
+    <li>
+        <p>Note: The below list is only a fraction of scholarships available. Search the web for more. </p>
+    </li>
 </ul>
 <br />
 
@@ -509,8 +517,7 @@ leadership, service, and character`,
             'type': `contest entry`,
             'details': `17+, enrolled in university`,
             'date': 'Sept 30, 2024'
-        }
-        ,
+        },
         {
             'name': 'Energy Creates',
             'url': 'https://www.energycreates.com/',
@@ -519,6 +526,15 @@ leadership, service, and character`,
             'type': `Essay or Art`,
             'details': `15+, watch film`,
             'date': 'August 31, 2024'
+        },
+        {
+            'name': 'Tangerine',
+            'url': 'https://tangerinescholarship.55rush.com/',
+            'value': '$35,000',
+            'quantity': '1',
+            'type': `Contest Entry`,
+            'details': `16+`,
+            'date': 'October 31, 2024'
         }
     ];
 
@@ -559,7 +575,7 @@ leadership, service, and character`,
         select: true,
         lengthMenu: [5, 10, 25, { label: 'All', value: -1 }],
         columnDefs: [{
-            targets: [4,5],
+            targets: [4, 5],
             render: DataTable.render.ellipsis(50)
         }]
     });
