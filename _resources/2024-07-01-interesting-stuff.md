@@ -8,8 +8,6 @@ toc_sticky: true
 Keep up to date on Current Events and Interesting Stuff.
 
 # News
-- [Google Trending News](https://trends.google.com/trends/trendingsearches/daily?geo=CA&hl=en-US)
-    - note: scan headlines
 - [Google News](https://news.google.com/home?hl=en-CA&gl=CA&ceid=CA:en)
     - note: scan headlines
     - make sure to go through Business/Tech/Science/Health tabs as well
@@ -19,6 +17,9 @@ Keep up to date on Current Events and Interesting Stuff.
     - bold takes for curious minds on today’s biggest topics
 - [https://www.sciencedaily.com/](https://www.sciencedaily.com/)
     - latest research news
+- [The Hustle](https://thehustle.co/)
+- [1440](https://join1440.com/today)
+- [Peter Diamandis (xprize)](https://www.diamandis.com/blog)
 
 # Explainer Videos
 - [TED-Ed](https://www.youtube.com/teded)
@@ -35,3 +36,9 @@ Keep up to date on Current Events and Interesting Stuff.
 - [UN SDG Fast Facts](https://www.un.org/sustainabledevelopment/sdg-fast-facts/)
 - [Canada SDG](https://www.canada.ca/en/employment-social-development/programs/agenda-2030.html)
 - [Canada SDG Infographics](https://www.statcan.gc.ca/o1/en/plus/940-check-out-our-new-sustainable-development-goals-infographics)
+
+# Government Budgets
+- know where your taxes go
+- [Calgary Service Plans and Budgets](https://www.calgary.ca/our-finances/2023-2026-service-plans-budgets.html)
+- [Alberta Capital Plan](https://www.alberta.ca/capital-plan)
+- [Canada Federal Budget](https://www.canada.ca/en/department-finance/services/publications/federal-budget.html)
