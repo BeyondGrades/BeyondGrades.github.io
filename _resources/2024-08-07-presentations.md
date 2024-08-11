@@ -14,7 +14,7 @@ toc_sticky: true
   - [How to sound smart in your TEDx Talk](https://www.youtube.com/watch?v=8S0FDjFBj8o)
 
 
-  # Linked In Learning
+# Linked In Learning
   > Note: you can get free access to Linked In through the [Library](../2024-07-01-tools/#calgary-public-library)
   
   - [Presentation Skills](https://www.linkedin.com/learning/search?keywords=presentations)
@@ -32,4 +32,4 @@ toc_sticky: true
     - Elevator Pitching
     - etc.
 
-    - note: Google Best Pitch Decks to see successful examples
+    - note: Google 'Best Pitch Decks' to see successful examples
