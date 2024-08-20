@@ -20,12 +20,14 @@ Keep up to date on Current Events and Interesting Stuff.
 - [The Hustle](https://thehustle.co/)
 - [1440](https://join1440.com/today)
 - [Peter Diamandis (xprize)](https://www.diamandis.com/blog)
+- [Sam Altman (openai)](https://blog.samaltman.com/)
 - [Morning Brew](https://www.morningbrew.com/)
 - [The Skimm](https://www.theskimm.com/)
 - [Future Party](https://futureparty.com/stories/)
 - [Hackernoon](https://hackernoon.com/)
 - [Live Science](https://www.livescience.com/)
 - [Tech Crunch](https://techcrunch.com/)
+- [80,000 hours](https://80000hours.org/)
 
 
 # Explainer Videos
