@@ -5,6 +5,8 @@ toc: true
 toc_sticky: true
 ---
 
+Everyone has to make a presentation at some point, might as well make it a good one.
+
 # Ted Talks
 - How to present like a Ted Talk
   - [TedX speaker guide](https://storage.ted.com/tedx/manuals/tedx_speaker_guide.pdf)
