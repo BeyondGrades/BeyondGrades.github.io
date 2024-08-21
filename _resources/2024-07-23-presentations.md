@@ -1,6 +1,6 @@
 ---
 title: "Presentations"
-excerpt: "Could you give a TED Talk?"
+excerpt: "Could you give a TED Talk? ..."
 toc: true
 toc_sticky: true
 ---

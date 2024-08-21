@@ -1,6 +1,6 @@
 ---
 title: "Passion Project"
-excerpt: "Stand out of the crowd of university applications by having a project that means something to you."
+excerpt: "Stand out of the crowd of university applications by having a project that means something to you..."
 toc: true
 toc_sticky: true
 ---

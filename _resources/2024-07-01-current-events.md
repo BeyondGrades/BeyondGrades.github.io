@@ -1,13 +1,13 @@
 ---
-title: "Interesting Stuff"
-excerpt: "Keep up to date on Current Events and Interesting Stuff"
+title: "Current Events"
+excerpt: "Keep up to date on what's happening in the world - someone will ask you about it..."
 toc: true
 toc_sticky: true
 ---
 
 Keep up to date on Current Events and Interesting Stuff.
 
-# News
+# News 1
 - [Google News](https://news.google.com/home?hl=en-CA&gl=CA&ceid=CA:en)
     - note: scan headlines
     - make sure to go through Business/Tech/Science/Health tabs as well
@@ -15,8 +15,8 @@ Keep up to date on Current Events and Interesting Stuff.
     - explains the major news stories everybody is talking about 
 - [Bloomberg Originals](https://www.youtube.com/bloomberg)
     - bold takes for curious minds on today’s biggest topics
-- [https://www.sciencedaily.com/](https://www.sciencedaily.com/)
-    - latest research news
+
+# News 2 
 - [The Hustle](https://thehustle.co/)
 - [1440](https://join1440.com/today)
 - [Peter Diamandis (xprize)](https://www.diamandis.com/blog)
@@ -24,11 +24,15 @@ Keep up to date on Current Events and Interesting Stuff.
 - [Morning Brew](https://www.morningbrew.com/)
 - [The Skimm](https://www.theskimm.com/)
 - [Future Party](https://futureparty.com/stories/)
-- [Hackernoon](https://hackernoon.com/)
-- [Live Science](https://www.livescience.com/)
-- [Tech Crunch](https://techcrunch.com/)
 - [80,000 hours](https://80000hours.org/)
 
+# Science - Tech News
+- [Tech Crunch](https://techcrunch.com/)
+- [The Verge](https://www.theverge.com/)
+- [Hackernoon](https://hackernoon.com/)
+- [Live Science](https://www.livescience.com/)
+- [https://www.sciencedaily.com/](https://www.sciencedaily.com/)
+    - latest research news
 
 # Explainer Videos
 - [TED-Ed](https://www.youtube.com/teded)

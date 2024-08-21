@@ -1,6 +1,6 @@
 ---
 title: "Presentations"
-excerpt: "Presenting is hard."
+excerpt: "Presenting is hard..."
 toc: true
 toc_sticky: true
 ---

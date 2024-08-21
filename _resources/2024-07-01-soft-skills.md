@@ -1,6 +1,6 @@
 ---
 title: "Soft Skills"
-excerpt: "Pad out your resume with skills that that are in demand in every industry"
+excerpt: "Pad out your resume with skills that that are in demand in every industry..."
 toc: true
 toc_sticky: true
 ---

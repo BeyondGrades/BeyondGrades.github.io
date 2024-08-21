@@ -1,6 +1,6 @@
 ---
 title: "Philosophers"
-excerpt: "You will be surprised how often they are brought up."
+excerpt: "You will be surprised how often they are brought up..."
 toc: true
 toc_sticky: true
 ---

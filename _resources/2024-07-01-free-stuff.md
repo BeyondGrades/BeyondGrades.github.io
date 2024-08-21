@@ -1,6 +1,6 @@
 ---
-title: "Tools"
-excerpt: "Free things that can help you on your way"
+title: "Free Stuff"
+excerpt: "Free tools that can help you do what you need to do..."
 toc: true
 toc_sticky: true
 ---
@@ -96,6 +96,9 @@ Ex:
 - [Ab Ed subject area resources (via Alberta Gov't site)](https://www.alberta.ca/provincial-achievement-tests#jumplinks-4)
 
 # Free Stuff on the Internet
-> Reminder: use a VPN - don't have one? Try the Opera browser.
+> Reminder: use a VPN! 
+Don't have one? Try the built in VPN in the Opera browser.
+
 - [FMHY - freemediaheckyeah](https://fmhy.net/)
-- [FMHY - reddit wiki](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
+
+<!-- https://www.myunidays.com/CA/en-CA/futures -->

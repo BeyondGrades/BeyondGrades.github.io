@@ -1,6 +1,6 @@
 ---
 title: "Inspirational / Motivational Quotes"
-excerpt: "Sometimes, we all need a pep talk."
+excerpt: "Sometimes, we all need a pep talk..."
 toc: true
 toc_sticky: true
 ---
