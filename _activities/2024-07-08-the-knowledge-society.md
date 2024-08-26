@@ -1,7 +1,7 @@
 ---
 title:  "The Knowledge Society"
 tags: 
-  - Program/Leadership
+  - Incubator
 description:
   - Innovation and learning accelerator program for students
 dates:
