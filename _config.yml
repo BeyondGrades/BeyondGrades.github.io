@@ -321,6 +321,9 @@ collections:
   blog:
     output: true
     permalink: /:collection/:path/
+  about:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -365,6 +368,14 @@ defaults:
   - scope:
       path: ""
       type: activities
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _about
+  - scope:
+      path: ""
+      type: about
     values:
       layout: single
       author_profile: false
