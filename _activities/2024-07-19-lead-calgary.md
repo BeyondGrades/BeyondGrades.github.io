@@ -5,7 +5,7 @@ tags:
 description:
   - Develop and Practice Leadership Skills
 dates:
-  - Fall registration, other dates may open
+  - Dates open up frequently, more dates in the summer
 costs:
   - None
 reviews:

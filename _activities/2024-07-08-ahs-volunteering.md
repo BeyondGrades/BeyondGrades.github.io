@@ -3,7 +3,7 @@ title:  "Alberta Health Services Volunteering"
 tags: 
   - Volunteer
 description:
-  - Volunteer around a nearby hospital, at the discresion of the staff
+  - Volunteer around a nearby hospital, at the discretion of the staff
 dates:
   - on-going
 costs:

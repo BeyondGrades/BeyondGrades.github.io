@@ -1,6 +1,6 @@
 ---
-title: "Tools"
-excerpt: "Free things that can help you on your way"
+title: "Free Stuff"
+excerpt: "Free tools that can help you do what you need to do..."
 toc: true
 toc_sticky: true
 ---
@@ -51,6 +51,13 @@ Good-luck!
 
 - [education.github.com](https://education.github.com/pack)
 
+# Azure for Students
+- [https://azure.microsoft.com/en-us/free/students/](https://azure.microsoft.com/en-us/free/students/)
+    - Start with $100 Azure credit
+    - No credit card required
+    - Popular services freemium (ex: Azure SQl Database, Azure App Service, Azure Functions, etc.)
+
+
 # Calgary Public Library
 
 The **[Calgary Public Library](https://calgarylibrary.ca/)** has tonnes of free stuff.  Did you know they have freemium printing, bookable meeting rooms, movies, Libby, Rosetta Stone, in person programs, and much more (even books).
@@ -77,7 +84,7 @@ Ex:
 # Study Guides / Practice Exams
 
 - [Solaro (digital service via Calgary Public Library)](https://calgarylibrary.ca/read-learn-and-explore/digital-library/solaro/)
-- [The Key (books via Calgary Public Library)](https://calgary.bibliocommons.com/v2/search?query=the%20key%20student%20study%20guide)** 
+- [The Key (books via Calgary Public Library)](https://calgary.bibliocommons.com/v2/search?query=the%20key%20student%20study%20guide)
     - limited copies, get them from the library early!
 - [Exam Bank](https://alberta.exambank.com/)
     - note, if you google around, you might find passwords ...
@@ -88,3 +95,10 @@ Ex:
 - [Ab Ed online practice tests (via Alberta Gov't site)](https://abed.vretta.com/#/en/public-practice)
 - [Ab Ed subject area resources (via Alberta Gov't site)](https://www.alberta.ca/provincial-achievement-tests#jumplinks-4)
 
+# Free Stuff on the Internet
+> Reminder: use a VPN! 
+Don't have one? Try the built in VPN in the Opera browser.
+
+- [FMHY - freemediaheckyeah](https://fmhy.net/)
+
+<!-- https://www.myunidays.com/CA/en-CA/futures -->

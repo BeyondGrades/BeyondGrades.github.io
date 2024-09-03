@@ -1,6 +1,6 @@
 ---
 title: "Scholarships"
-excerpt: "Free Money for school"
+excerpt: "Free Money for school..."
 
 ---
 

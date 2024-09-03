@@ -14,8 +14,8 @@ reviews:
 
 ### Details
 - Topic of research, how it will be conducted, and your role will likely be completely determined by the professor
-- Over summer break, professors will usually be less likley to respond, or agree to requests
-- Work with professor could possibly be in-person, but will likley be long distance
+- Over summer break, professors will usually be less likely to respond, or agree to requests
+- Work with professor could possibly be in-person, but will likely be long distance
 
 ### More Info
 - Contact professors at local institutions conducting research you might be interested in

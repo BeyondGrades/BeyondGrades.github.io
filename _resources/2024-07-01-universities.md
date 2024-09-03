@@ -1,6 +1,6 @@
 ---
 title: "Universities"
-excerpt: "Rankings.  It's all about the rankings."
+excerpt: "Rankings.  It's all about the rankings..."
 toc: true
 toc_sticky: true
 ---

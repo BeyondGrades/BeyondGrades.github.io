@@ -7,12 +7,12 @@ collection: activities
 
 {% include breadcrumbs.html %}
 
-<br/>
+<br />
 <h1>Activities</h1>
 <p>Which activities will make you stand out from the crowd?</p>
-<p>Note: This list is only a sample of activities.  Search the web for more. </p>
-<br/>
-<hr/>
+<p>Note: This list is only a sample of activities. Search the web for more. </p>
+<br />
+<hr />
 
 <table id="activities-table" class="display" style="width:100%">
     <thead>
@@ -28,14 +28,14 @@ collection: activities
     <tbody>
         {% for post in site.activities %}
         <tr>
-          <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></td>
-          <td>{{ post.description }}</td>
-          <td>{{ post.tags }}</td>
-          <td>{{ post.dates }}</td>
-          <td>{{ post.costs }}</td>
-          <td>{{ post.reviews }}</td>
+            <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></td>
+            <td>{{ post.description }}</td>
+            <td>{{ post.tags }}</td>
+            <td>{{ post.dates }}</td>
+            <td>{{ post.costs }}</td>
+            <td>{{ post.reviews }}</td>
         </tr>
-      {% endfor %}
+        {% endfor %}
     </tbody>
     <!-- <tfoot>
         <tr>
@@ -52,9 +52,31 @@ collection: activities
 <script>
     $('head').append('<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.min.css">');
 
+    // truncate text in table
+    // note: this needs to be defined before the table is created
+    DataTable.render.ellipsis = function (cutoff) {
+        return function (data, type, row) {
+            if (type === 'display') {
+                var str = data.toString(); // cast numbers
+
+                return str.length < cutoff ?
+                    str :
+                    str.substr(0, cutoff - 1) + '&#8230;';
+            }
+
+            // Search, order and type can use the original data
+            return data;
+        };
+    };
+
+    // setup table
     let table = new DataTable('#activities-table', {
         select: true,
-        lengthMenu: [5, 10, 25, { label: 'All', value: -1 }]
+        lengthMenu: [5, 10, 25, { label: 'All', value: -1 }],
+        columnDefs: [{
+            targets: [1, 3, 4],
+            render: DataTable.render.ellipsis(50)
+        }]
     });
 
     $('#activities-table').on('click', 'tbody tr', function () {
@@ -102,4 +124,5 @@ collection: activities
         }
     `;
     document.head.appendChild(style);
+
 </script>
