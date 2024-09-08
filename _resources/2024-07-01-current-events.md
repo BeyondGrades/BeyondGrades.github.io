@@ -31,7 +31,7 @@ Keep up to date on Current Events and Interesting Stuff.
 - [The Verge](https://www.theverge.com/)
 - [Hackernoon](https://hackernoon.com/)
 - [Live Science](https://www.livescience.com/)
-- [https://www.sciencedaily.com/](https://www.sciencedaily.com/)
+- [Science Daily](https://www.sciencedaily.com/)
     - latest research news
 
 # Explainer Videos
