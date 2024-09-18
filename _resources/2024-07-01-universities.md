@@ -5,6 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
+ It's all about the rankings...
 
 # Best in Canada
 - [macleans.ca](https://education.macleans.ca/rankings/)

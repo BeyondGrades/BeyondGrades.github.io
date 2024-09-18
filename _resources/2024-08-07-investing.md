@@ -13,6 +13,7 @@ Build Wealth. Start early. Understand risks.
 # Courses
 - [BMO](https://www.bmo.com/main/personal/investments/learning-centre/online-investing-courses/)
 
+
 # Stock Screeners
 - [Yahoo Finance](https://finance.yahoo.com/)
 - [Google Finance](https://www.google.com/finance/)
@@ -23,6 +24,6 @@ Build Wealth. Start early. Understand risks.
 - [TD](https://virtualstockmarket.tdbank.com/)
     - 4 month access
     - not tied to bank account
-- [MarketWatch] (https://www.marketwatch.com/games)
+- [MarketWatch](https://www.marketwatch.com/games)
 - [Virtual Stock Exchange](https://virtual-stock-exchange.com/)
-
+- [JA Investment Strategies Competition](https://investja.org/national)
