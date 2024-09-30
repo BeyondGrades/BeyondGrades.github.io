@@ -14,11 +14,12 @@ Build Wealth. Start early. Understand risks.
 - [BMO](https://www.bmo.com/main/personal/investments/learning-centre/online-investing-courses/)
 
 
-# Stock Screeners
+# Stock Screeners and Dashboards
 - [Yahoo Finance](https://finance.yahoo.com/)
 - [Google Finance](https://www.google.com/finance/)
 - [MorningStar (freemium)](https://www.morningstar.ca/ca/)
 - [TD (freemium)](https://marketsandresearch.td.com/tdwca/Public/Stocks/Overview/ca/td)
+- [CNN Markets](https://www.cnn.com/markets)
 
 # Virtual Stock Market Games
 - [TD](https://virtualstockmarket.tdbank.com/)

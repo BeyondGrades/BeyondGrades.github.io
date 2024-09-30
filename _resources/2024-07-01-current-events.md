@@ -7,7 +7,7 @@ toc_sticky: true
 
 Keep up to date on Current Events and Interesting Stuff.
 
-# News 1
+# News
 - [Google News](https://news.google.com/home?hl=en-CA&gl=CA&ceid=CA:en)
     - note: scan headlines
     - make sure to go through Business/Tech/Science/Health tabs as well
@@ -16,15 +16,19 @@ Keep up to date on Current Events and Interesting Stuff.
 - [Bloomberg Originals](https://www.youtube.com/bloomberg)
     - bold takes for curious minds on today’s biggest topics
 
-# News 2 
+# Newsletters
 - [The Hustle](https://thehustle.co/)
 - [1440](https://join1440.com/today)
-- [Peter Diamandis (xprize)](https://www.diamandis.com/blog)
-- [Sam Altman (openai)](https://blog.samaltman.com/)
 - [Morning Brew](https://www.morningbrew.com/)
 - [The Skimm](https://www.theskimm.com/)
 - [Future Party](https://futureparty.com/stories/)
 - [80,000 hours](https://80000hours.org/)
+
+# Influential figures in technology, innovation, and business
+- [Peter Diamandis (xprize)](https://www.diamandis.com/blog)
+- [Sam Altman (openai)](https://blog.samaltman.com/)
+- [Scott Galloway (professor/entrepreneur)](https://www.profgalloway.com/)
+- [Shaan Puri and Sam Parr (My First Million Pod)](https://www.mfmpod.com/)
 
 # Science - Tech News
 - [Tech Crunch](https://techcrunch.com/)
