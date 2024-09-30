@@ -5,7 +5,7 @@ tags:
 description:
   - Manage a business
 dates:
-  -  unknown
+  -  October 2024 to March 2025 
 costs:
   - yes, about $20 product purchase
 reviews:

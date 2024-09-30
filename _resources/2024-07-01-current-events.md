@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
-Keep up to date on Current Events and Interesting Stuff.
+Be interested in the world around you.  Water cooler talk can get you farther than you think.
 
 # News
 - [Google News](https://news.google.com/home?hl=en-CA&gl=CA&ceid=CA:en)

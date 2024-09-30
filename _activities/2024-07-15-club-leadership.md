@@ -5,7 +5,7 @@ tags:
 description:
   - Lead and or found a club at your school
 dates:
-  - None
+  - on-going
 costs:
   - Generally None, but can vary depending on the type of club and events
 reviews:

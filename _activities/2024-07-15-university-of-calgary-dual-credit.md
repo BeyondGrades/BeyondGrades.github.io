@@ -26,7 +26,7 @@ reviews:
 - Easy to apply, very low requirements
 
 ### Cons
-- Possible long transit to the in-person courses at the University of Calgary
+- C-Trains during Stampede can get very full and slow.
 - Often not in-depth or high enough level for experienced students
 
 ### Reviews
