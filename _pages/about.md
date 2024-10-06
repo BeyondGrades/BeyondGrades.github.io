@@ -4,6 +4,9 @@ permalink: /about/
 classes: wide
 ---
 
+![BeyondGrades Poster](\assets\images\BeyondGrades.jpg)
+{: .full}
+
 ## The Role of BeyondGrades
 
 Throughout my high school life, I have struggled time and time again to find opportunities to help myself stand out against the student body and to build my skills outside of the classroom. At times, other students purposely withhold this information from me so they could access their knowledge. Putting others at a disadvantage instead of sharing with others and bringing everyone up.
