@@ -13,7 +13,7 @@ reviews:
 ---
 
 ### Details
-- Hands on experiencing at a large company
+- Hands on experience at a large company
 
 ### More Info
 - [https://devdegree.ca/](https://devdegree.ca/)

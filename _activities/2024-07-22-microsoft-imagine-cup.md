@@ -5,7 +5,7 @@ tags:
 description:
   - Hackathon
 dates:
-  - January - May?
+  - January - May
 costs:
   - None
 reviews:
