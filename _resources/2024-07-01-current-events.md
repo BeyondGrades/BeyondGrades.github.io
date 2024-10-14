@@ -30,6 +30,7 @@ Be interested in the world around you.  Water cooler talk can get you farther th
 - [Sam Altman (openai)](https://blog.samaltman.com/)
 - [Scott Galloway (professor/entrepreneur)](https://www.profgalloway.com/)
 - [Shaan Puri and Sam Parr (My First Million Pod)](https://www.mfmpod.com/)
+- [Y Combinator (startups)](https://www.ycombinator.com/library)
 
 # Science - Tech News
 - [Tech Crunch](https://techcrunch.com/)
