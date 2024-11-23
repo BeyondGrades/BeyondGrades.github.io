@@ -57,6 +57,11 @@ Good-luck!
     - No credit card required
     - Popular services freemium (ex: Azure SQl Database, Azure App Service, Azure Functions, etc.)
 
+# Audit Courses in Coursera
+- [https://www.coursera.org/](https://www.coursera.org/)
+- When you audit a course you'll be able to see most of the course materials for free, but you won't be able to submit assessments or get grades for your work.
+- You won't get a Course Certificate
+- Open a free account, pick the individual course you want (not the series). Click enroll for free. You should see a trial offer, but at the bottom there's a tiny link to Audit the course instead.
 
 # Calgary Public Library
 
