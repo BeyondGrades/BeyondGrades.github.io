@@ -12,7 +12,7 @@ Build Wealth. Start early. Understand risks.
 
 # Courses
 - [BMO](https://www.bmo.com/main/personal/investments/learning-centre/online-investing-courses/)
-
+- [McGill Personal Finance Essentials](https://www.mcgillpersonalfinance.com/)
 
 # Stock Screeners and Dashboards
 - [Yahoo Finance](https://finance.yahoo.com/)
