@@ -25,6 +25,5 @@ Build Wealth. Start early. Understand risks.
 - [TD](https://virtualstockmarket.tdbank.com/)
     - 4 month access
     - not tied to bank account
-- [MarketWatch](https://www.marketwatch.com/games)
-- [Virtual Stock Exchange](https://virtual-stock-exchange.com/)
+- [Webull.ca](https://www.webull.ca/paper-trading)
 - [JA Investment Strategies Competition](https://investja.org/national)

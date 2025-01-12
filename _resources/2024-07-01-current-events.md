@@ -24,6 +24,7 @@ Be interested in the world around you.  Water cooler talk can get you farther th
 - [Future Party](https://futureparty.com/stories/)
 - [80,000 hours](https://80000hours.org/)
 - [Axios](https://www.axios.com/)
+- [Eurasia Group](https://www.eurasiagroup.net/in-the-news/)
 
 # Influential figures in technology, innovation, and business
 - [Peter Diamandis (xprize)](https://www.diamandis.com/blog)
